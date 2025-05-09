@@ -95,7 +95,7 @@ This project was developed as part of the **Computer Vision** course in the Mast
 
 ##  Contributors
 
-Project completed as TP1 of the “Vision par Ordinateur” course (2025).
+Project completed as TP of the “Vision par Ordinateur” course (2025).
 
 Master 2 SIM – IFI, Vietnam National University  
  Supervised by: Nguyễn Thị Oanh
